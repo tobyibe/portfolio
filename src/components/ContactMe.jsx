@@ -29,7 +29,7 @@ const ContactMe = () => {
       };
   return (
     <div>
-        <RouterLink to="/" className=' inline-block'>
+        <RouterLink to="/portfolio" className=' inline-block'>
             <IoIosReturnLeft size="3rem" className='shadow-2xl bg-slate-100 border-2 border-slate-200 rounded-lg m-5'></IoIosReturnLeft>
         </RouterLink>
         <p className='text-4xl font-bold text-slate-700 text-center'>Feel free to send me a message!👇</p>

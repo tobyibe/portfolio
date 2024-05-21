@@ -19,7 +19,7 @@ export default function App() {
         <ParticlesComponent id="particles" className=' absolute inset-0' />
         <div className='relative'>
           <Switch>
-            <Route exact path ="/">
+            <Route exact path ="/portfolio">
               <NavBar />
               <AboutSection />
               <Technologies />
