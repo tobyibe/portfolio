@@ -96,7 +96,7 @@ const Projects = () => {
 
       <motion.div initial={{opacity:0, y:80}} whileInView={{opacity:1, y:0}} transition={{duration: 1}} viewport={{once: true}} className='relative  w-[80%] sm:w-[45rem]' onMouseEnter={() => handleHover(3, true)} onMouseLeave={() => handleHover(3, false)}>
         <img src={ytmp3} className={!isHovered[3]?"transition duration-300 shadow-2xl rounded-xl": "blur-sm scale-105 transition duration-300 shadow-2xl rounded-xl brightness-50"}/>
-        <motion.div className='absolute top-[15%] text-sm text-white transform -translate-y-1/2' animate={controls[3]}>
+        <motion.div className='absolute top-[5%] text-sm text-white transform -translate-y-1/2' animate={controls[3]}>
           <a href="https://tobyibe.github.io/yt2mp3/" className=' inline-block'>
             <FaLink size="1.5rem" className='text-white cursor-pointer shadow-xl'/>
           </a>
@@ -113,16 +113,16 @@ const Projects = () => {
 
       <motion.div initial={{opacity:0, y:80}} whileInView={{opacity:1, y:0}} transition={{duration: 1}} viewport={{once: true}} className='relative  w-[80%] sm:w-[45rem]'  onMouseEnter={() => handleHover(0, true)} onMouseLeave={() => handleHover(0, false)}>
         <img src={pic} className={!isHovered[0]?"transition duration-300 shadow-2xl rounded-xl": "blur-sm scale-105 transition duration-300 shadow-2xl rounded-xl brightness-50"}/>
-          <motion.div className='absolute top-[15%] text-sm text-white transform -translate-y-1/2 ' animate={controls[0]}>  
+          <motion.div className='absolute top-[5%] text-sm text-white transform -translate-y-1/2 ' animate={controls[0]}>  
             <Link to='home' spy={true} smooth={true} offset={-100} duration={500} >
               <FaLink size="1.5rem" className='text-white cursor-pointer shadow-xl '/>
             </Link> 
             <p className=' text-lg sm:text-xl font-bold pb-3'>Portfolio Website</p>
             <ul>
               <li>-Fully responsive and interactive portfolio website</li>
-              <li>-React.js used for backend processing of 'contact me' form and Tailwind CSS used for </li>
+              <li>-Created with React.js and styled with Tailwind CSS</li>
               <li>-Used the emailjs library to implement 'contact me' form </li>
-              <li>-Utilises various js libraries such as react-typed, framer motion, tsparticles etc for interactive particle background, routing, animations etc</li>
+              <li>-Utilises various js libraries  for interactive particle background, routing, animations etc</li>
             </ul>  
           </motion.div>                  
       </motion.div>
