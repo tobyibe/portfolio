@@ -32,7 +32,7 @@ export default function App() {
           </Switch>
 
           <a href={cvpdf} download="resume">
-            <img src={cv} className='fixed rounded-full sm:right-10 sm:bottom-10 right-0 bottom-0 mb-5 sm:w-20 w-10 cursor-pointer hover:scale-105 transition-all shadow-2xl' alt="CV" />
+            <img src={cv} className='fixed rounded-full sm:right-10 sm:bottom-10 right-0 bottom-0 m-5 sm:w-20 w-16 cursor-pointer hover:scale-105 transition-all shadow-2xl' alt="CV" />
           </a>
 
         </div>
