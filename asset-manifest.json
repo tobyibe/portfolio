@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.4e99dd6f.css",
-    "main.js": "/portfolio/static/js/main.3c3d1310.js",
+    "main.js": "/portfolio/static/js/main.2523f473.js",
     "static/js/1927.c316a944.chunk.js": "/portfolio/static/js/1927.c316a944.chunk.js",
     "static/js/7590.99fa2421.chunk.js": "/portfolio/static/js/7590.99fa2421.chunk.js",
     "static/js/6725.652bd60c.chunk.js": "/portfolio/static/js/6725.652bd60c.chunk.js",
@@ -75,7 +75,7 @@
     "static/media/profile pic.jpg": "/portfolio/static/media/profile pic.a05c58d440fffdd7fc0c.jpg",
     "static/media/portfolio image.jpg": "/portfolio/static/media/portfolio image.9dc8d346bf9eb7fcdc37.jpg",
     "static/media/fifa.jpg": "/portfolio/static/media/fifa.4cf2b1b97b584170152b.jpg",
-    "static/media/cv.pdf": "/portfolio/static/media/cv.ca7dce5dfd3674252c7c.pdf",
+    "static/media/cv.pdf": "/portfolio/static/media/cv.ddfd01f4d81b31436701.pdf",
     "static/media/react.jpg": "/portfolio/static/media/react.893e059d441dda3f63cb.jpg",
     "static/media/js.jpg": "/portfolio/static/media/js.2a1410b38a792b28dbc2.jpg",
     "static/media/eliza.png": "/portfolio/static/media/eliza.5ddda451ccbb067e5caf.png",
@@ -83,7 +83,7 @@
     "static/media/python.jpg": "/portfolio/static/media/python.889be79d26c6f8996a32.jpg",
     "index.html": "/portfolio/index.html",
     "main.4e99dd6f.css.map": "/portfolio/static/css/main.4e99dd6f.css.map",
-    "main.3c3d1310.js.map": "/portfolio/static/js/main.3c3d1310.js.map",
+    "main.2523f473.js.map": "/portfolio/static/js/main.2523f473.js.map",
     "1927.c316a944.chunk.js.map": "/portfolio/static/js/1927.c316a944.chunk.js.map",
     "7590.99fa2421.chunk.js.map": "/portfolio/static/js/7590.99fa2421.chunk.js.map",
     "6725.652bd60c.chunk.js.map": "/portfolio/static/js/6725.652bd60c.chunk.js.map",
@@ -156,6 +156,6 @@
   },
   "entrypoints": [
     "static/css/main.4e99dd6f.css",
-    "static/js/main.3c3d1310.js"
+    "static/js/main.2523f473.js"
   ]
 }
